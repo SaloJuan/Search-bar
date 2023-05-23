@@ -1,0 +1,45 @@
+/* carga final */
+
+
+.search-container-final{}
+.listado{}
+
+
+.container-final{
+    height: 500px;
+    width: 500px;
+        
+    
+}
+
+.search-container-final{
+    height: 130px;
+    width: 500px;
+    
+    grid-template-columns: 100%;
+    grid-template-rows: 50;
+
+}
+.barra-busqueda-final{
+    width: 500px;
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

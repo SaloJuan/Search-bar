@@ -1,0 +1,14 @@
+probar lo siguiente:
+en el styles.css tiene que haber un estilo para cuando la barra está en foco
+otro estilo para cuando la barra esta fuera de foco. 
+Esto podria hacerse utilizando el mismo estilo que ya existe para los casos en los que no está en foco y crear otro estilo que targetee o por clase o por estado o por pseudoclase y ahi aplique el estilo cuando se focusee el elemento
+
+-al elemento container, o a la barra busqueda, ver bien a cual, se le va a añadir un listener para :hover. LISTO
+-se va a crear otro div abajo que tenga las opciones o busquedas recientes.
+-se van a crear esas opciones y hardcodearlas en el html
+-que ese div con las busquedas esté en oculto
+-al pasarle el mouse por arriba, se vuelva visible ese segundo div
+-al sacarle el mpuse, vuelva a ser oculto
+
+
+
